@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="018620a5-6f3c-4bcc-b1d4-8059d4addb93" name="Default Changelist" comment="" />
+    <list default="true" id="018620a5-6f3c-4bcc-b1d4-8059d4addb93" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PredictiveAnalysisProject.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/PredictiveAnalysisProject.ipynb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -55,6 +58,8 @@
       <workItem from="1592676778564" duration="87000" />
       <workItem from="1592677501746" duration="1148000" />
       <workItem from="1592684658892" duration="1283000" />
+      <workItem from="1592697926636" duration="1498000" />
+      <workItem from="1592705468272" duration="208000" />
     </task>
     <servers />
   </component>
