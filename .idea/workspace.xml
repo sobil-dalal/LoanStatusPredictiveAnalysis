@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="018620a5-6f3c-4bcc-b1d4-8059d4addb93" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PredictiveAnalysisProject.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/PredictiveAnalysisProject.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PredictiveAnalysisProject.ipynb" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,11 +20,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="JupyterTrust" id="3998ea26-bfee-439d-8442-c565003a47a7">
-    <option name="files">
-      <option value="PredictiveAnalysisProject.ipynb" />
-    </option>
-  </component>
+  <component name="JupyterTrust" id="3998ea26-bfee-439d-8442-c565003a47a7" />
   <component name="ProjectId" id="1dVl7jQr6E5WPgndq5hyau3iy6w" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -60,6 +56,7 @@
       <workItem from="1592684658892" duration="1283000" />
       <workItem from="1592697926636" duration="1498000" />
       <workItem from="1592705468272" duration="208000" />
+      <workItem from="1592851069866" duration="693000" />
     </task>
     <servers />
   </component>
@@ -87,5 +84,9 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1592604963889" />
+    <state width="600" height="428" key="javadoc.popup" timestamp="1592851502354">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="600" height="428" key="javadoc.popup/0.0.1440.900@0.0.1440.900" timestamp="1592851502354" />
   </component>
 </project>
