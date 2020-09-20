@@ -3,12 +3,17 @@
   <component name="ChangeListManager">
     <list default="true" id="018620a5-6f3c-4bcc-b1d4-8059d4addb93" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PredictiveAnalysisProject.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_PA_DataCleaningAndExport.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/1_PA_DataCleaningAndExport.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2_PA_PrimaryDataVisualization.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/2_PA_PrimaryDataVisualization.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="printScope" value="1" />
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/exportToHTML" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -57,6 +62,12 @@
       <workItem from="1592697926636" duration="1498000" />
       <workItem from="1592705468272" duration="208000" />
       <workItem from="1592851069866" duration="693000" />
+      <workItem from="1598314680238" duration="10000" />
+      <workItem from="1598314748857" duration="538000" />
+      <workItem from="1598378294994" duration="75000" />
+      <workItem from="1598461299171" duration="83000" />
+      <workItem from="1598464617039" duration="522000" />
+      <workItem from="1598478165431" duration="141000" />
     </task>
     <servers />
   </component>
